@@ -10,6 +10,18 @@ Works for **American** (Grades 1–12, ES / MS / HS) and **British** (Years 1–
 
 ---
 
+## Screenshots
+
+> Illustrations of the sheets this script builds, filled with **fictional sample data**. No real school, staff or student data is included.
+
+**Tracker tab: one row per grading check, color-coded quality and action dropdowns**
+
+![Tracker tab: one row per grading check, color-coded quality and action dropdowns](docs/screenshots/grading-tracker.png)
+
+**Dashboard tab: KPIs, issue rates by division and subject, auto-built charts**
+
+![Dashboard tab: KPIs, issue rates by division and subject, auto-built charts](docs/screenshots/grading-dashboard.png)
+
 ## Features
 
 - **One-click setup** builds the Tracker, Settings, Email Log and Dashboard tabs with headers, dropdowns, colors and frozen rows.
